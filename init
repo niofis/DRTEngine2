@@ -1,0 +1,4 @@
+#ifndef _DRTEngine2_icpp_init_stub
+#define _DRTEngine2_icpp_init_stub
+#include "DRTEngine2/SDL_gfx/init"
+#endif
